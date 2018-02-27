@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kimalu.github.io/"/>
-  <updated>2018-02-27T13:17:43.339Z</updated>
+  <updated>2018-02-27T14:12:15.134Z</updated>
   <id>https://kimalu.github.io/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="https://kimalu.github.io/2018/02/27/markdown%E8%AF%AD%E6%B3%95/"/>
     <id>https://kimalu.github.io/2018/02/27/markdown语法/</id>
     <published>2018-02-27T13:14:09.000Z</published>
-    <updated>2018-02-27T13:17:43.339Z</updated>
+    <updated>2018-02-27T14:12:15.134Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="参考："><a href="#参考：" class="headerlink" title="参考："></a>参考：</h2><p><a href="https://www.jianshu.com/p/q81RER" target="_blank" rel="noopener">献给写作者的 Markdown 新手指南</a><br><a href="https://github.com/younghz/Markdown" target="_blank" rel="noopener">Markdown 基本语法</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="使用感受"><a href="#使用感受" class="headerlink" title="使用感受"></a>使用感受</h1><p>初用markdown的时候感觉只是比较酷，由于很多博客系统插入图片都挺麻烦的，对于经常要截图做记录的我，实在是难以忍受，有一段时间我是用七牛的云存储，但实在麻烦，据说简书能直接上传图片，我没去尝试，现在用这个博客系统上传图片比较方便，终于可以愉快写作了。</p><h2 id="基本语法"><a href="#基本语法" class="headerlink" title="基本语法"></a>基本语法</h2><p>参考：</p><ol><li><a href="https://www.jianshu.com/p/q81RER" target="_blank" rel="noopener">献给写作者的 Markdown 新手指南</a>    </li><li><p><a href="https://github.com/younghz/Markdown" target="_blank" rel="noopener">Markdown 基本语法</a></p><h2 id="支持数学公式"><a href="#支持数学公式" class="headerlink" title="支持数学公式"></a>支持数学公式</h2><p>参考：</p></li><li><p><a href="http://mathjax-chinese-doc.readthedocs.io/en/latest/start.html" target="_blank" rel="noopener">mathjax中文手册</a></p></li><li><a href="https://yihui.name/cn/2017/04/mathjax-markdown/" target="_blank" rel="noopener">MathJax 与 Markdown 的究极融合</a></li><li><a href="http://www.cnblogs.com/hellowangyang/p/3852906.html" target="_blank" rel="noopener">MarkdownPad 使用 MathJax</a></li></ol><h3 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h3><pre><code>$$\begin{aligned}\dot{x} &amp; = \sigma(y-x) \\\dot{y} &amp; = \rho x - y - xz \\\dot{z} &amp; = -\beta z + xy\end{aligned}$$</code></pre><p>$$<br>\begin{aligned}<br>\dot{x} &amp; = \sigma(y-x) \<br>\dot{y} &amp; = \rho x - y - xz \<br>\dot{z} &amp; = -\beta z + xy<br>\end{aligned}<br>$$</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;参考：&quot;&gt;&lt;a href=&quot;#参考：&quot; class=&quot;headerlink&quot; title=&quot;参考：&quot;&gt;&lt;/a&gt;参考：&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://www.jianshu.com/p/q81RER&quot; target=&quot;_blank&quot; rel=&quot;no
+        &lt;h1 id=&quot;使用感受&quot;&gt;&lt;a href=&quot;#使用感受&quot; class=&quot;headerlink&quot; title=&quot;使用感受&quot;&gt;&lt;/a&gt;使用感受&lt;/h1&gt;&lt;p&gt;初用markdown的时候感觉只是比较酷，由于很多博客系统插入图片都挺麻烦的，对于经常要截图做记录的我，实在是难以忍受，有一
       
     
     </summary>
@@ -46,9 +46,9 @@
     <link href="https://kimalu.github.io/2018/01/22/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/"/>
     <id>https://kimalu.github.io/2018/01/22/开博大吉/</id>
     <published>2018-01-22T14:47:42.000Z</published>
-    <updated>2018-02-27T13:17:38.982Z</updated>
+    <updated>2018-02-27T14:03:23.678Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="序"><a href="#序" class="headerlink" title="序"></a>序</h1><blockquote><p>从2010年毕业到现在，做过不少项目，学了不少东西，但一直没有沉下心来整理下所学的知识和所做过的项目，平时又喜欢折腾，这次利用github提供的个人主页结合hexo，开启我的博客之旅，写出来的东西是放在网上让大家看，想到这个就有点慌。不知道效果怎么样，试试呗，天下那么大，没必要想成全世界的网民都来看我的博客。<br>听说可以通过<code></code>这种方式引用图片，我试试，以下是我的头像<br><img src="/2018/01/22/开博大吉/头像.jpg" title="This is an profile image"></p></blockquote><p>既然用hexo，那就需要学习下markdown语法。<br>基本语法比较简单，先达到够用即可</p><p><a href="https://www.jianshu.com/p/q81RER" target="_blank" rel="noopener">markdown语法</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="序"><a href="#序" class="headerlink" title="序"></a>序</h1><blockquote><p>从2010年毕业到现在，做过不少项目，学了不少东西，但一直没有沉下心来整理下所学的知识和所做过的项目，平时又喜欢折腾，这次利用github提供的个人主页结合hexo，开启我的博客之旅，写出来的东西是放在网上让大家看，想到这个就有点慌。不知道效果怎么样，试试呗，天下那么大，没必要想成全世界的网民都来看我的博客。<br>听说可以通过</p></blockquote><p><code></code></p><blockquote><p>这种方式引用图片，我试试，以下是我的头像<br><img src="/2018/01/22/开博大吉/头像.jpg" title="This is an profile image"></p></blockquote><p>既然用hexo，那就需要学习下markdown语法。<br>基本语法比较简单，先达到够用即可</p><p><a href="https://kimalu.github.io/2018/02/27/markdown%E8%AF%AD%E6%B3%95/">markdown语法</a></p>]]></content>
     
     <summary type="html">
     
